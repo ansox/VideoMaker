@@ -1,0 +1,19 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "Robot to make and upload youtube videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansox/VideoMaker.git"
+  },
+  "author": "AnsoDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansox/VideoMaker/issues"
+  },
+  "homepage": "https://github.com/ansox/VideoMaker#readme"
+}
