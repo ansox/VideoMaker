@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ansox/VideoMaker/issues"
   },
-  "homepage": "https://github.com/ansox/VideoMaker#readme"
+  "homepage": "https://github.com/ansox/VideoMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
